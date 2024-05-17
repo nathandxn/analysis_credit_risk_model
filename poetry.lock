@@ -2816,4 +2816,4 @@ test = ["websockets"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10.0"
-content-hash = "2aebc252a2aba311322c532c019440fdf0f994fc8f1ad057aa8e44659afafb30"
+content-hash = "27c703f4c08304e2311746f17f3b2397aad861f7322072b21b0befeb68292c82"
