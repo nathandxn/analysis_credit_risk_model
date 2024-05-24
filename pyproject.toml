@@ -23,6 +23,7 @@ shap = "^0.45.1"
 elements = {git = "https://github.com/nathandxn/elements_utils.git"}
 black = {extras = ["jupyter"], version = "^24.4.2"}
 snowflake-connector-python = "^3.10.1"
+python-dotenv = "^1.0.1"
 
 [tool.poetry.dev-dependencies]
 [build-system]
