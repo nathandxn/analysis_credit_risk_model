@@ -629,6 +629,33 @@ files = [
 ]
 
 [[package]]
+name = "elements"
+version = "0.2.0"
+description = ""
+optional = false
+python-versions = "^3.10.0"
+files = []
+develop = false
+
+[package.dependencies]
+black = "24.3.0"
+ipython = "8.5.0"
+matplotlib = "3.6.0"
+numpy = "1.23.3"
+pandas = "1.5.0"
+pyprojroot = "0.3.0"
+pytest = "8.1.1"
+scikit-learn = "1.1.2"
+seaborn = "0.12.0"
+typing-extensions = "4.11.0"
+
+[package.source]
+type = "git"
+url = "https://github.com/nathandxn/elements_utils.git"
+reference = "HEAD"
+resolved_reference = "191b9dce9ebf66c61c6a18bb738d2d3636191c17"
+
+[[package]]
 name = "exceptiongroup"
 version = "1.2.1"
 description = "Backport of PEP 654 (exception groups)"
@@ -2999,4 +3026,4 @@ test = ["websockets"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10.0"
-content-hash = "01049de0f571673f0c8c7943549c78388c55dbdb5a06a2e929198cb6bad9d89b"
+content-hash = "ac9954a98fe5ad09829ebce6a06a986edb5d70e00d92d3911204e1b521d16c2a"

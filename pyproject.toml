@@ -20,6 +20,7 @@ jupyterlab = "^4.2.0"
 scipy = "^1.13.0"
 lightgbm = "^4.3.0"
 shap = "^0.45.1"
+elements = {git = "https://github.com/nathandxn/elements_utils.git"}
 
 [tool.poetry.dev-dependencies]
 [build-system]
