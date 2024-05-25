@@ -697,7 +697,7 @@ files = [
 
 [[package]]
 name = "elements"
-version = "0.2.0"
+version = "0.3.0"
 description = ""
 optional = false
 python-versions = "^3.10.0"
@@ -720,7 +720,7 @@ typing-extensions = "4.11.0"
 type = "git"
 url = "https://github.com/nathandxn/elements_utils.git"
 reference = "HEAD"
-resolved_reference = "7b1cb68775a28289610e0e0ea473ce48190c73f6"
+resolved_reference = "7f35e3544c8d6492320d1f0aba3b536c97a4d9de"
 
 [[package]]
 name = "exceptiongroup"
